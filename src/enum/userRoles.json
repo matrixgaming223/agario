@@ -1,0 +1,32 @@
+[
+    { 
+        "ip":"", 
+        "password":"matrixgaming",
+        "role":"ADMIN",
+        "name":"Matrix" 
+    },
+    { 
+        "ip":"127.0.0.1", 
+        "password":"",
+        "role":"MODER",
+        "name":"Moderator Fate" 
+    },
+     { 
+        "ip":"", 
+        "password":"sup",
+        "role":"SUP",
+        "name":"Supervisor Th3DestinySquad" 
+    },
+ { 
+        "ip":"", 
+        "password":"yt99999",
+        "role":"YT",
+        "name":"YouTube" 
+    },
+  { 
+        "ip":"127.0.0.1", 
+        "password":"",
+        "role":"USER",
+        "name":"Local User" 
+    }
+]
