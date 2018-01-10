@@ -1,0 +1,105 @@
+=== Started 2017-12-31T15-04-10-717 ===
+[INFO ][15:04:10] 419 bad words loaded
+[WARN ][15:04:10] User account "Local User" disabled
+[INFO ][15:04:10] 2 user records loaded.
+[INFO ][15:04:10] 0 IP ban records loaded.
+[INFO ][15:04:10] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][15:04:10] WebSocket: ws
+[INFO ][15:04:10] Started stats server on port 1110
+[INFO ][15:04:10] Listening on port 1111
+[INFO ][15:04:10] Current game mode is Free For All
+[NONE ][15:04:10]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][15:04:15] CONNECTED 10.1.0.8:57158, origin: "http://agarmatrix.ga"
+[NONE ][15:25:44] >sudo 
+[WARN ][15:25:44] Invalid Command!
+[NONE ][15:25:47] >help
+[NONE ][15:25:47]                        ┌────────────────────────────┐                       
+                       │ LIST OF AVAILABLE COMMANDS │                       
+┌──────────────────────┴────────────────────────────┴──────────────────────┐
+│                         ----Players and AI----                           │
+│                                                                          │
+│ playerlist                   │ Get list of players, bots, ID's, etc      │
+│ minion [PlayerID] [#] [name] │ Adds suicide minions to the server        │
+│ addbot [number]              │ Adds bots to the server                   │
+│ kickbot [number]             │ Kick a number of bots - No value= all gone│
+│ kick [PlayerID]              │ Kick player or bot by client ID           │
+│ kickall                      │ Kick all players and bots                 │
+│ kill [PlayerID]              │ Kill the player by client ID              │
+│ killall                      │ Kills everyone                            │
+│                                                                          │
+│                          ----Player Commands----                         │
+│                                                                          │
+│ spawn [entity] [pos] [mass]  │ Spawns an entity                          │
+│ mass [PlayerID] [mass]       │ Set cell(s) mass by client ID             │
+│ merge [PlayerID]             │ Merge all client's cells                  │
+│ spawnmass [PlayerID] [mass]  │ Sets a player's spawn mass                │
+│ freeze [PlayerID]            │ Freezes a player                          │
+│ speed [PlayerID]             │ Sets a player's base speed                │
+│ color [PlayerID] [R] [G] [B] │ Set cell(s) color by client ID            │
+│ name [PlayerID] [name]       │ Change cell(s) name by client ID          │
+│ skin [PlayerID] [string]     │ Change cell(s) skin by client ID          │
+│ rec [PlayerID]               │ Gives a player instant-recombine + more   │
+│ split [PlayerID] [Amount]    │ Forces a player to split                  │
+│ tp [X] [Y]                   │ Teleports player(s) to XY coordinates     │
+│ replace [PlayerID] [entity]  │ Replaces a player with an entity          │
+│ pop [PlayerID]               │ Pops a player with a virus                │
+| explode [PlayerID]           | Explodes a player into ejected mass       |
+│                                                                          │
+│                          ----Server Commands----                         │
+│                                                                          │
+│ pause                        │ Pause game, freeze all nodes              │
+│ board [string] [string] ...  │ Set scoreboard text                       │
+│ change [setting] [value]     │ Change specified settings                 │
+│ reload                       │ Reload config, banlist, and role files    │
+│ ban [PlayerID │ IP]          │ Bans a player(s) IP                       │
+│ unban [IP]                   │ Unbans an IP                              │
+│ banlist                      │ Get list of banned IPs.                   │
+│ mute [PlayerID]              │ Mute player from chat by client ID        │
+│ unmute [PlayerID]            │ Unmute player from chat by client ID      │
+| lms                          | Starts/ends last man standing             |
+| chat                         | Sends a server message to all clients     |
+│                                                                          │
+│                          ----Miscellaneous----                           │
+│                                                                          │
+│ clear                        │ Clear console output                      │
+│ reset                        │ Removes all nodes and reimplement them    │
+│ status                       │ Get server status                         │
+│ debug                        │ Get/check node lengths                    │
+│ exit                         │ Stops the server                          │
+│ calc                         │ Get size/mass from a specified value      │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────┤
+│         Psst! Do "shortcuts" for a list of command shortcuts!            │
+└──────────────────────────────────────────────────────────────────────────┘
+[NONE ][15:25:54] >\\\
+[WARN ][15:25:54] Invalid Command!
+[NONE ][15:25:55] >
+[NONE ][15:26:03] >banlist
+[NONE ][15:26:03] Showing 0 banned IPs: 
+[NONE ][15:26:03]  IP              | IP 
+[NONE ][15:26:03] ───────────────────────────────────
+[NONE ][15:26:12] >board FUCK ME IN THE ASS
+[NONE ][15:26:12] Successfully changed leaderboard values
+[NONE ][15:26:12] Do "board reset" to reset leaderboard
+[NONE ][15:26:18] >restart
+[WARN ][15:26:18] Restarting server...
+[NONE ][15:26:18] DISCONNECTED 10.1.0.8:57158, code: 1000, reason: "", name: "ZenMode"
+[NONE ][15:26:21] CONNECTED 10.1.0.8:49326, origin: "http://agarmatrix.ga"
+[NONE ][15:26:36] >
+[FATAL][15:26:37] TypeError: Cannot read property 'setRawMode' of null
+    at ReadStream.setRawMode (tty.js:61:15)
+    at Interface._setRawMode (readline.js:240:16)
+    at Interface.close (readline.js:364:10)
+    at ReadStream.ontermend (readline.js:154:10)
+    at emitNone (events.js:110:20)
+    at ReadStream.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1059:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+[DEBUG][15:26:37] process.exit(1)
+=== Shutdown 2017-12-31T15-26-37-945 ===

@@ -1,0 +1,154 @@
+=== Started 2018-01-10T13-08-32-123 ===
+[INFO ][13:08:32] 419 bad words loaded
+[WARN ][13:08:32] User account "Local User" disabled
+[INFO ][13:08:32] 2 user records loaded.
+[INFO ][13:08:32] 0 IP ban records loaded.
+[INFO ][13:08:32] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][13:08:32] WebSocket: ws
+[INFO ][13:08:32] Started stats server on port 1110
+[INFO ][13:08:32] Listening on port 1111
+[INFO ][13:08:32] Current game mode is Free For All
+[NONE ][13:08:32]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][13:08:33] CONNECTED 10.1.0.4:47646, origin: "http://agarmatrix.ga"
+[NONE ][13:08:33] CONNECTED 10.1.0.4:47647, origin: "http://agarmatrix.ga"
+[NONE ][13:08:33] CONNECTED 10.1.0.4:47651, origin: "http://agarmatrix.ga"
+[NONE ][13:08:34] CONNECTED 10.1.0.4:47681, origin: "http://agarmatrix.ga"
+[NONE ][13:08:46] LOGIN        10.1.0.4:47646 as "Matrix"
+[NONE ][13:08:54] DISCONNECTED 10.1.0.4:47651, code: 1001, reason: "", name: ""
+[NONE ][13:09:06] >merge 1
+[NONE ][13:09:06] Matrix is now force merging
+[NONE ][13:09:13] CONNECTED 10.1.0.4:48419, origin: "http://agarmatrix.ga"
+[NONE ][13:09:19] >merge 1
+[NONE ][13:09:19] Matrix is now force merging
+[NONE ][13:09:47] >merge 1
+[NONE ][13:09:47] Matrix is now force merging
+[NONE ][13:09:49] LOGIN        10.1.0.4:47647 as "Th3DestinySquad"
+[NONE ][13:10:36] >killall
+[NONE ][13:10:49] DISCONNECTED 10.1.0.4:48419, code: 1001, reason: "", name: "A SUB TO MATRIX"
+[NONE ][13:11:24] >pl
+[NONE ][13:11:24] 
+Current players: 653
+[NONE ][13:11:24] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][13:11:24]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK            
+[NONE ][13:11:24] ────────────────────────────────────────────────────────────────────────────────
+[NONE ][13:11:24]       1 | 10.1.0.4        | 6 | --------------------SPECTATING: Thed3stinysquad
+[NONE ][13:11:24]      27 | 10.1.0.4        | 6 |     1 |  62101 | -5118,  3166 | Thed3stinysquad
+[NONE ][13:11:24]      79 | 10.1.0.4        | 6 |     1 |  14712 |  1397,  2911 | Mufasa         
+[NONE ][13:11:29] >mass 79 5000000
+[NONE ][13:11:29] Set mass of Mufasa to 5000000.000
+[NONE ][13:11:36] >killall
+[NONE ][13:11:43] >mass 79 50000
+[NONE ][13:11:43] Set mass of Mufasa to 50000.000
+[NONE ][13:11:45] >
+[NONE ][13:11:47] >mass 79 500
+[NONE ][13:11:47] Set mass of Mufasa to 500.000
+[NONE ][13:11:49] >mass 79 50000
+[NONE ][13:11:49] Set mass of Mufasa to 50000.000
+[NONE ][13:11:51] >mass 79 500
+[NONE ][13:11:51] Set mass of Mufasa to 500.000
+[NONE ][13:11:52] >mass 79 50000
+[NONE ][13:11:52] Set mass of Mufasa to 50000.000
+[NONE ][13:11:54] >mass 79 500
+[NONE ][13:11:54] Set mass of Mufasa to 500.000
+[NONE ][13:11:55] >mass 79 50000
+[NONE ][13:11:55] Set mass of Mufasa to 50000.000
+[NONE ][13:11:56] >mass 79 500
+[NONE ][13:11:56] Set mass of Mufasa to 500.000
+[NONE ][13:11:57] >mass 79 50000
+[NONE ][13:11:57] Set mass of Mufasa to 50000.000
+[NONE ][13:11:57] >mass 79 50000
+[NONE ][13:11:57] Set mass of Mufasa to 50000.000
+[NONE ][13:11:59] >mass 79 500
+[NONE ][13:11:59] Set mass of Mufasa to 500.000
+[NONE ][13:12:00] >mass 79 50000
+[NONE ][13:12:00] Set mass of Mufasa to 50000.000
+[NONE ][13:12:01] >mass 79 500
+[NONE ][13:12:01] Set mass of Mufasa to 500.000
+[NONE ][13:12:03] >mass 79 50000
+[NONE ][13:12:03] Set mass of Mufasa to 50000.000
+[NONE ][13:12:07] >say ok
+[WARN ][13:12:07] Invalid Command!
+[NONE ][13:12:12] >help
+[NONE ][13:12:12]                        ┌────────────────────────────┐                       
+                       │ LIST OF AVAILABLE COMMANDS │                       
+┌──────────────────────┴────────────────────────────┴──────────────────────┐
+│                         ----Players and AI----                           │
+│                                                                          │
+│ playerlist                   │ Get list of players, bots, ID's, etc      │
+│ minion [PlayerID] [#] [name] │ Adds suicide minions to the server        │
+│ addbot [number]              │ Adds bots to the server                   │
+│ kickbot [number]             │ Kick a number of bots - No value= all gone│
+│ kick [PlayerID]              │ Kick player or bot by client ID           │
+│ kickall                      │ Kick all players and bots                 │
+│ kill [PlayerID]              │ Kill the player by client ID              │
+│ killall                      │ Kills everyone                            │
+│                                                                          │
+│                          ----Player Commands----                         │
+│                                                                          │
+│ spawn [entity] [pos] [mass]  │ Spawns an entity                          │
+│ mass [PlayerID] [mass]       │ Set cell(s) mass by client ID             │
+│ merge [PlayerID]             │ Merge all client's cells                  │
+│ spawnmass [PlayerID] [mass]  │ Sets a player's spawn mass                │
+│ freeze [PlayerID]            │ Freezes a player                          │
+│ speed [PlayerID]             │ Sets a player's base speed                │
+│ color [PlayerID] [R] [G] [B] │ Set cell(s) color by client ID            │
+│ name [PlayerID] [name]       │ Change cell(s) name by client ID          │
+│ skin [PlayerID] [string]     │ Change cell(s) skin by client ID          │
+│ rec [PlayerID]               │ Gives a player instant-recombine + more   │
+│ split [PlayerID] [Amount]    │ Forces a player to split                  │
+│ tp [X] [Y]                   │ Teleports player(s) to XY coordinates     │
+│ replace [PlayerID] [entity]  │ Replaces a player with an entity          │
+│ pop [PlayerID]               │ Pops a player with a virus                │
+| explode [PlayerID]           | Explodes a player into ejected mass       |
+│                                                                          │
+│                          ----Server Commands----                         │
+│                                                                          │
+│ pause                        │ Pause game, freeze all nodes              │
+│ board [string] [string] ...  │ Set scoreboard text                       │
+│ change [setting] [value]     │ Change specified settings                 │
+│ reload                       │ Reload config, banlist, and role files    │
+│ ban [PlayerID │ IP]          │ Bans a player(s) IP                       │
+│ unban [IP]                   │ Unbans an IP                              │
+│ banlist                      │ Get list of banned IPs.                   │
+│ mute [PlayerID]              │ Mute player from chat by client ID        │
+│ unmute [PlayerID]            │ Unmute player from chat by client ID      │
+| lms                          | Starts/ends last man standing             |
+| chat                         | Sends a server message to all clients     |
+│                                                                          │
+│                          ----Miscellaneous----                           │
+│                                                                          │
+│ clear                        │ Clear console output                      │
+│ reset                        │ Removes all nodes and reimplement them    │
+│ status                       │ Get server status                         │
+│ debug                        │ Get/check node lengths                    │
+│ exit                         │ Stops the server                          │
+│ calc                         │ Get size/mass from a specified value      │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────┤
+│         Psst! Do "shortcuts" for a list of command shortcuts!            │
+└──────────────────────────────────────────────────────────────────────────┘
+[NONE ][13:12:25] >calc
+[WARN ][13:12:25] Please specify a valid number!
+[NONE ][13:12:48] >restart
+[WARN ][13:12:48] Restarting server...
+[NONE ][13:12:48] DISCONNECTED 10.1.0.4:47646, code: 1006, reason: "", name: "Matrix"
+[NONE ][13:12:48] DISCONNECTED 10.1.0.4:47646, code: 1006, reason: "", name: "Matrix"
+[NONE ][13:12:48] DISCONNECTED 10.1.0.4:47647, code: 1000, reason: "", name: "Thed3stinysquad"
+[NONE ][13:12:48] DISCONNECTED 10.1.0.4:47681, code: 1000, reason: "", name: "Mufasa"
+[NONE ][13:12:50] CONNECTED 10.1.0.4:52799, origin: "http://agarmatrix.ga"
+[NONE ][13:12:51] CONNECTED 10.1.0.4:52821, origin: "http://agarmatrix.ga"
+[NONE ][13:12:53] CONNECTED 10.1.0.4:52885, origin: "http://agarmatrix.ga"
+[NONE ][13:12:58] LOGIN        10.1.0.4:52821 as "Matrix"
+[NONE ][13:13:06] CONNECTED 10.1.0.4:53155, origin: "http://agarmatrix.ga"
+[NONE ][13:13:28] LOGIN        10.1.0.4:52799 as "Th3DestinySquad"
+[NONE ][13:14:24] >shutdown
+[WARN ][13:14:24] Invalid Command!
+[WARN ][13:14:28] SHUTDOWN REQUEST FROM 10.1.0.4 as Matrix
+[DEBUG][13:14:28] process.exit(0)
+=== Shutdown 2018-01-10T13-14-28-495 ===

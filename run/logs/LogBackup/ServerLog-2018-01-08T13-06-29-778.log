@@ -1,0 +1,39 @@
+=== Started 2018-01-08T12-46-16-510 ===
+[INFO ][12:46:16] 419 bad words loaded
+[WARN ][12:46:16] User account "Local User" disabled
+[INFO ][12:46:16] 2 user records loaded.
+[INFO ][12:46:16] 0 IP ban records loaded.
+[INFO ][12:46:16] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][12:46:16] WebSocket: ws
+[INFO ][12:46:16] Started stats server on port 1110
+[INFO ][12:46:16] Listening on port 1111
+[INFO ][12:46:16] Current game mode is Free For All
+[NONE ][12:46:16]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][12:46:17] CONNECTED 10.0.0.4:33467, origin: "http://agarmatrix.ga"
+[NONE ][12:46:19] CONNECTED 10.0.0.4:33490, origin: "http://agarmatrix.ga"
+[NONE ][12:46:23] LOGIN        10.0.0.4:33467 as "Matrix"
+[NONE ][12:47:02] >pl
+[NONE ][12:47:02] 
+Current players: 127
+[NONE ][12:47:02] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][12:47:02]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK            
+[NONE ][12:47:02] ────────────────────────────────────────────────────────────────────────────────
+[NONE ][12:47:02]       1 | 10.0.0.4        | 6 |     1 |    673 | -1858,  3103 | {Donuts} Matrix
+[NONE ][12:47:02]      27 | 10.0.0.4        | 6 | ----------------------------DEAD OR NOT PLAYING
+[NONE ][12:48:24] >merge 1
+[NONE ][12:48:24] {Donuts} Matrix is now force merging
+[NONE ][12:48:30] >PL
+[NONE ][12:48:30] 
+Current players: 127
+[NONE ][12:48:30] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][12:48:30]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK            
+[NONE ][12:48:30] ────────────────────────────────────────────────────────────────────────────────
+[NONE ][12:48:30]       1 | 10.0.0.4        | 6 |     1 |   4501 |  4368,   620 | {Donuts} Matrix
+[NONE ][12:48:30]      27 | 10.0.0.4        | 6 | ----------------------------DEAD OR NOT PLAYING

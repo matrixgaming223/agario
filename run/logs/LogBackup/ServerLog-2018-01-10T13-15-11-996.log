@@ -1,0 +1,21 @@
+=== Started 2018-01-10T13-14-29-123 ===
+[INFO ][13:14:29] 419 bad words loaded
+[WARN ][13:14:29] User account "Local User" disabled
+[INFO ][13:14:29] 2 user records loaded.
+[INFO ][13:14:29] 0 IP ban records loaded.
+[INFO ][13:14:29] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][13:14:29] WebSocket: ws
+[INFO ][13:14:29] Started stats server on port 1110
+[INFO ][13:14:29] Listening on port 1111
+[INFO ][13:14:29] Current game mode is Free For All
+[NONE ][13:14:29]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][13:14:30] CONNECTED 10.1.0.4:54820, origin: "http://agarmatrix.ga"
+[NONE ][13:14:30] CONNECTED 10.1.0.4:54821, origin: "http://agarmatrix.ga"
+[NONE ][13:14:30] CONNECTED 10.1.0.4:54824, origin: "http://agarmatrix.ga"
+[NONE ][13:14:30] CONNECTED 10.1.0.4:54827, origin: "http://agarmatrix.ga"
+[NONE ][13:14:41] LOGIN        10.1.0.4:54820 as "Th3DestinySquad"

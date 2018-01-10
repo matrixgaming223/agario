@@ -1,0 +1,26 @@
+=== Started 2017-12-31T13-36-53-414 ===
+[INFO ][13:36:53] 419 bad words loaded
+[WARN ][13:36:53] User account "Local User" disabled
+[INFO ][13:36:53] 2 user records loaded.
+[INFO ][13:36:53] 0 IP ban records loaded.
+[INFO ][13:36:53] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][13:36:53] WebSocket: ws
+[INFO ][13:36:53] Started stats server on port 1110
+[INFO ][13:36:53] Listening on port 1111
+[INFO ][13:36:53] Current game mode is Free For All
+[NONE ][13:36:53]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][13:36:54] CONNECTED 10.1.0.8:49316, origin: "http://agarmatrix.ga"
+[NONE ][13:37:16] LOGIN        10.1.0.8:49316 as "ZenMode"
+[NONE ][14:01:03] DISCONNECTED 10.1.0.8:49316, code: 1000, reason: "", name: "ZenMode"
+[NONE ][14:26:59] >update
+[WARN ][14:26:59] Invalid Command!
+[NONE ][14:34:42] CONNECTED 10.1.0.8:58802, origin: "http://agarmatrix.ga"
+[NONE ][14:35:19] LOGIN        10.1.0.8:58802 as "Matrix"
+[NONE ][14:35:36] DISCONNECTED 10.1.0.8:58802, code: 1006, reason: "", name: "Matrix"
+[NONE ][14:43:33] CONNECTED 10.1.0.8:44827, origin: "http://agarmatrix.ga"
+[NONE ][14:44:23] LOGIN        10.1.0.8:44827 as "ZenMode"

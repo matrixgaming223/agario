@@ -1,0 +1,47 @@
+=== Started 2018-01-10T12-57-23-152 ===
+[INFO ][12:57:23] 419 bad words loaded
+[WARN ][12:57:23] User account "Local User" disabled
+[INFO ][12:57:23] 2 user records loaded.
+[INFO ][12:57:23] 0 IP ban records loaded.
+[INFO ][12:57:23] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][12:57:23] WebSocket: ws
+[INFO ][12:57:23] Started stats server on port 1110
+[INFO ][12:57:23] Listening on port 1111
+[INFO ][12:57:23] Current game mode is Free For All
+[NONE ][12:57:23]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][12:57:23] CONNECTED 10.1.0.4:35072, origin: "http://agarmatrix.ga"
+[NONE ][12:57:28] CONNECTED 10.1.0.4:35154, origin: "http://agarmatrix.ga"
+[NONE ][12:57:33] LOGIN        10.1.0.4:35154 as "Matrix"
+[NONE ][12:57:36] LOGIN        10.1.0.4:35072 as "Th3DestinySquad"
+[NONE ][12:59:58] CONNECTED 10.1.0.4:38006, origin: "http://agarmatrix.ga"
+[NONE ][13:00:19] CONNECTED 10.1.0.4:38459, origin: "http://agarmatrix.ga"
+[NONE ][13:00:38] DISCONNECTED 10.1.0.4:38006, code: 1001, reason: "", name: "Keshav"
+[NONE ][13:00:58] >killall
+[NONE ][13:01:02] CONNECTED 10.1.0.4:39265, origin: "http://agarmatrix.ga"
+[NONE ][13:01:43] DISCONNECTED 10.1.0.4:35072, code: 1001, reason: "", name: "Thed3stinysquad"
+[NONE ][13:02:26] >board rip server in 3 2 1 bye :(
+[NONE ][13:02:26] Successfully changed leaderboard values
+[NONE ][13:02:26] Do "board reset" to reset leaderboard
+[NONE ][13:03:12] CONNECTED 10.1.0.4:41760, origin: "http://agarmatrix.ga"
+[NONE ][13:03:37] LOGIN        10.1.0.4:41760 as "Th3DestinySquad"
+[NONE ][13:03:39] >pl
+[NONE ][13:03:39] 
+Current players: 179
+[NONE ][13:03:39] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][13:03:39]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK            
+[NONE ][13:03:39] ────────────────────────────────────────────────────────────────────────────────
+[NONE ][13:03:39]      27 | 10.1.0.4        | 6 |   117 | 132039 |    43,     0 | [Owner]Matrix  
+[NONE ][13:03:39]     154 | 10.1.0.4        | ? |     2 |    534 | -1231,  2824 | Mufasa         
+[NONE ][13:03:39]     180 | 10.1.0.4        | ? |     1 |   2539 | -2837,  3511 | [OWNER] matrix 
+[NONE ][13:03:39]     206 | 10.1.0.4        | ? |     1 |    170 |  3427,  3923 | Thed3stinysquad
+[NONE ][13:03:50] >name 180 Fake matrix
+[NONE ][13:03:50] Changing [OWNER] matrix to Fake matrix
+[NONE ][13:03:59] >board reset
+[NONE ][13:03:59] Successfully reset leaderboard
+[NONE ][13:04:06] >killall

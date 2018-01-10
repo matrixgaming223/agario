@@ -1,0 +1,33 @@
+=== Started 2018-01-08T13-06-29-778 ===
+[INFO ][13:06:29] 419 bad words loaded
+[WARN ][13:06:29] User account "Local User" disabled
+[INFO ][13:06:29] 2 user records loaded.
+[INFO ][13:06:29] 0 IP ban records loaded.
+[INFO ][13:06:29] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][13:06:29] WebSocket: ws
+[INFO ][13:06:29] Started stats server on port 1110
+[INFO ][13:06:29] Listening on port 1111
+[INFO ][13:06:29] Current game mode is Free For All
+[NONE ][13:06:29]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][13:07:14] CONNECTED 10.0.0.4:53505, origin: "http://agarmatrix.ga"
+[NONE ][13:07:22] LOGIN        10.0.0.4:53505 as "Th3DestinySquad"
+[NONE ][13:08:45] CONNECTED 10.0.0.4:55127, origin: "http://agarmatrix.ga"
+[NONE ][13:09:44] LOGIN        10.0.0.4:55127 as "Matrix"
+[NONE ][13:10:17] DISCONNECTED 10.0.0.4:53505, code: 1001, reason: "", name: "Thed3stinysquad"
+[NONE ][13:10:23] CONNECTED 10.0.0.4:56883, origin: "http://agarmatrix.ga"
+[NONE ][13:10:57] LOGIN        10.0.0.4:56883 as "Th3DestinySquad"
+[ERROR][13:13:06] [10.0.0.4:56883] Error: write EPIPE
+    at _errnoException (util.js:1041:11)
+    at WriteWrap.afterWrite [as oncomplete] (net.js:858:14)
+[NONE ][13:13:06] DISCONNECTED 10.0.0.4:56883, code: 1006, reason: "", name: "Thed3stinysquad"
+[NONE ][13:13:17] CONNECTED 10.0.0.4:59894, origin: "http://agarmatrix.ga"
+[NONE ][13:13:28] LOGIN        10.0.0.4:59894 as "Th3DestinySquad"
+[WARN ][13:14:13] 10.0.0.4ADDED 50 BOTS
+[WARN ][13:15:18] SHUTDOWN REQUEST FROM 10.0.0.4 as Matrix
+[DEBUG][13:15:18] process.exit(0)
+=== Shutdown 2018-01-08T13-15-18-579 ===

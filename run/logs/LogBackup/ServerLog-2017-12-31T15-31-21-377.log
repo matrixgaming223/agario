@@ -1,0 +1,13 @@
+=== Started 2017-12-31T15-31-20-596 ===
+[INFO ][15:31:20] 419 bad words loaded
+[WARN ][15:31:20] User account "Local User" disabled
+[INFO ][15:31:20] 2 user records loaded.
+[INFO ][15:31:20] 0 IP ban records loaded.
+[INFO ][15:31:20] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][15:31:20] WebSocket: ws
+[ERROR][15:31:20] Stats Server: listen EADDRINUSE :::1110
+[ERROR][15:31:20] WebSocket: EADDRINUSE - listen EADDRINUSE 0.0.0.0:1111
+[ERROR][15:31:20] Server could not bind to port 1111!
+[ERROR][15:31:20] Please close out of Skype or change 'serverPort' in gameserver.ini to a different number.
+[DEBUG][15:31:20] process.exit(1)
+=== Shutdown 2017-12-31T15-31-20-699 ===

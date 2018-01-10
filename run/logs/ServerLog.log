@@ -1,0 +1,58 @@
+=== Started 2018-01-10T13-28-10-408 ===
+[INFO ][13:28:10] 419 bad words loaded
+[WARN ][13:28:10] User account "Local User" disabled
+[INFO ][13:28:10] 2 user records loaded.
+[INFO ][13:28:10] 0 IP ban records loaded.
+[INFO ][13:28:10] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][13:28:10] WebSocket: ws
+[INFO ][13:28:10] Started stats server on port 1110
+[INFO ][13:28:10] Listening on port 1111
+[INFO ][13:28:10] Current game mode is Free For All
+[NONE ][13:28:10]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][13:28:15] CONNECTED 10.1.0.4:42726, origin: "http://agarmatrix.ga"
+[NONE ][13:28:15] CONNECTED 10.1.0.4:42741, origin: "http://agarmatrix.ga"
+[NONE ][13:28:15] CONNECTED 10.1.0.4:42769, origin: "http://agarmatrix.ga"
+[NONE ][13:28:34] LOGIN        10.1.0.4:42741 as "Th3DestinySquad"
+[NONE ][13:28:43] CONNECTED 10.1.0.4:43299, origin: "http://agarmatrix.ga"
+[NONE ][13:28:47] CONNECTED 10.1.0.4:43375, origin: "http://agarmatrix.ga"
+[NONE ][13:28:54] DISCONNECTED 10.1.0.4:43375, code: 1001, reason: "", name: ""
+[NONE ][13:29:00] LOGIN        10.1.0.4:42769 as "Matrix"
+[NONE ][13:29:28] DISCONNECTED 10.1.0.4:42726, code: 1001, reason: "", name: "[co-OWNER] Matr"
+[NONE ][13:29:54] >merge 1
+[WARN ][13:29:54] That player ID is non-existant!
+[NONE ][13:29:57] >pl
+[NONE ][13:29:57] 
+Current players: 78
+[NONE ][13:29:57] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][13:29:57]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK            
+[NONE ][13:29:57] ────────────────────────────────────────────────────────────────────────────────
+[NONE ][13:29:57]      27 | 10.1.0.4        | 6 | ----------------------------DEAD OR NOT PLAYING
+[NONE ][13:29:57]      53 | 10.1.0.4        | 6 |   128 | 166474 |   -11,     4 | Matrix         
+[NONE ][13:29:57]      79 | 10.1.0.4        | 6 |     4 |  36545 |   757,  -447 | {Dead_Biker}   
+[NONE ][13:30:00] >merge 53
+[NONE ][13:30:00] Matrix is now force merging
+[NONE ][13:30:21] LOGIN        10.1.0.4:42769 as "Matrix"
+[NONE ][13:33:01] >killall
+[NONE ][13:33:11] DISCONNECTED 10.1.0.4:42769, code: 1000, reason: "", name: "Matrix"
+[NONE ][13:33:11] DISCONNECTED 10.1.0.4:43299, code: 1000, reason: "", name: "Mufasa"
+[NONE ][13:33:11] DISCONNECTED 10.1.0.4:42741, code: 1000, reason: "", name: "Thed3stinysquad"
+[NONE ][13:33:12] CONNECTED 10.1.0.4:48429, origin: "http://agarmatrix.ga"
+[NONE ][13:33:13] CONNECTED 10.1.0.4:48430, origin: "http://agarmatrix.ga"
+[NONE ][13:33:13] CONNECTED 10.1.0.4:48446, origin: "http://agarmatrix.ga"
+[NONE ][13:33:15] LOGIN        10.1.0.4:48429 as "Matrix"
+[NONE ][13:33:21] LOGIN        10.1.0.4:48430 as "Th3DestinySquad"
+[ERROR][13:34:19] [10.1.0.4:48430] Error: write EPIPE
+    at _errnoException (util.js:1041:11)
+    at WriteWrap.afterWrite [as oncomplete] (net.js:858:14)
+[NONE ][13:34:19] DISCONNECTED 10.1.0.4:48430, code: 1006, reason: "", name: "Thed3stinysquad"
+[ERROR][13:35:33] [10.1.0.4:48429] Error: write EPIPE
+    at _errnoException (util.js:1041:11)
+    at WriteWrap.afterWrite [as oncomplete] (net.js:858:14)
+[NONE ][13:35:33] DISCONNECTED 10.1.0.4:48429, code: 1006, reason: "", name: "Matrix"
+[NONE ][13:35:42] DISCONNECTED 10.1.0.4:48446, code: 1001, reason: "", name: "Mufasa"

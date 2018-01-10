@@ -1,0 +1,90 @@
+=== Started 2017-12-31T15-26-59-417 ===
+[INFO ][15:26:59] 419 bad words loaded
+[WARN ][15:26:59] User account "Local User" disabled
+[INFO ][15:26:59] 2 user records loaded.
+[INFO ][15:26:59] 0 IP ban records loaded.
+[INFO ][15:26:59] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][15:26:59] WebSocket: ws
+[INFO ][15:26:59] Started stats server on port 1110
+[INFO ][15:26:59] Listening on port 1111
+[INFO ][15:26:59] Current game mode is Free For All
+[NONE ][15:26:59]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][15:27:03] CONNECTED 10.1.0.8:52538, origin: "http://agarmatrix.ga"
+[NONE ][15:27:12] LOGIN        10.1.0.8:52538 as "ZenMode"
+[NONE ][15:27:25] LOGOUT       10.1.0.8:52538 as "ZenMode"
+[NONE ][15:27:38] LOGIN        10.1.0.8:52538 as "ZenMode"
+[NONE ][15:27:50] >help
+[NONE ][15:27:50]                        ┌────────────────────────────┐                       
+                       │ LIST OF AVAILABLE COMMANDS │                       
+┌──────────────────────┴────────────────────────────┴──────────────────────┐
+│                         ----Players and AI----                           │
+│                                                                          │
+│ playerlist                   │ Get list of players, bots, ID's, etc      │
+│ minion [PlayerID] [#] [name] │ Adds suicide minions to the server        │
+│ addbot [number]              │ Adds bots to the server                   │
+│ kickbot [number]             │ Kick a number of bots - No value= all gone│
+│ kick [PlayerID]              │ Kick player or bot by client ID           │
+│ kickall                      │ Kick all players and bots                 │
+│ kill [PlayerID]              │ Kill the player by client ID              │
+│ killall                      │ Kills everyone                            │
+│                                                                          │
+│                          ----Player Commands----                         │
+│                                                                          │
+│ spawn [entity] [pos] [mass]  │ Spawns an entity                          │
+│ mass [PlayerID] [mass]       │ Set cell(s) mass by client ID             │
+│ merge [PlayerID]             │ Merge all client's cells                  │
+│ spawnmass [PlayerID] [mass]  │ Sets a player's spawn mass                │
+│ freeze [PlayerID]            │ Freezes a player                          │
+│ speed [PlayerID]             │ Sets a player's base speed                │
+│ color [PlayerID] [R] [G] [B] │ Set cell(s) color by client ID            │
+│ name [PlayerID] [name]       │ Change cell(s) name by client ID          │
+│ skin [PlayerID] [string]     │ Change cell(s) skin by client ID          │
+│ rec [PlayerID]               │ Gives a player instant-recombine + more   │
+│ split [PlayerID] [Amount]    │ Forces a player to split                  │
+│ tp [X] [Y]                   │ Teleports player(s) to XY coordinates     │
+│ replace [PlayerID] [entity]  │ Replaces a player with an entity          │
+│ pop [PlayerID]               │ Pops a player with a virus                │
+| explode [PlayerID]           | Explodes a player into ejected mass       |
+│                                                                          │
+│                          ----Server Commands----                         │
+│                                                                          │
+│ pause                        │ Pause game, freeze all nodes              │
+│ board [string] [string] ...  │ Set scoreboard text                       │
+│ change [setting] [value]     │ Change specified settings                 │
+│ reload                       │ Reload config, banlist, and role files    │
+│ ban [PlayerID │ IP]          │ Bans a player(s) IP                       │
+│ unban [IP]                   │ Unbans an IP                              │
+│ banlist                      │ Get list of banned IPs.                   │
+│ mute [PlayerID]              │ Mute player from chat by client ID        │
+│ unmute [PlayerID]            │ Unmute player from chat by client ID      │
+| lms                          | Starts/ends last man standing             |
+| chat                         | Sends a server message to all clients     |
+│                                                                          │
+│                          ----Miscellaneous----                           │
+│                                                                          │
+│ clear                        │ Clear console output                      │
+│ reset                        │ Removes all nodes and reimplement them    │
+│ status                       │ Get server status                         │
+│ debug                        │ Get/check node lengths                    │
+│ exit                         │ Stops the server                          │
+│ calc                         │ Get size/mass from a specified value      │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────┤
+│         Psst! Do "shortcuts" for a list of command shortcuts!            │
+└──────────────────────────────────────────────────────────────────────────┘
+[NONE ][15:30:37] CONNECTED 10.1.0.8:41279, origin: "http://agarmatrix.ga"
+[NONE ][15:31:39] LOGIN        10.1.0.8:41279 as "Matrix"
+[WARN ][15:32:24] 10.1.0.8ADDED 25 BOTS
+[WARN ][15:33:43] 10.1.0.8ADDED 75 BOTS
+[NONE ][15:35:58] DISCONNECTED 10.1.0.8:41279, code: 1006, reason: "", name: "Matrixᴳᵒᵈ"
+[NONE ][15:37:08] DISCONNECTED 10.1.0.8:52538, code: 1001, reason: "", name: "{aqua} ZenMode"
+[NONE ][15:42:16] CONNECTED 10.1.0.8:39556, origin: "http://agarmatrix.ga"
+[NONE ][15:50:59] DISCONNECTED 10.1.0.8:39556, code: 1000, reason: "", name: "Matrixᴳᵒᵈ"
+[NONE ][16:34:53] CONNECTED 10.1.0.8:52833, origin: "http://agarmatrix.ga"
+[NONE ][16:35:02] LOGIN        10.1.0.8:52833 as "Matrix"
+[WARN ][16:35:07] SHUTDOWN REQUEST FROM 10.1.0.8 as Matrix
